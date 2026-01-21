@@ -1,0 +1,13 @@
+---
+title: "Homework 1 Test"
+format: html
+---
+
+This will be pretty much a copy of my HW 1 script, except that now I can provide commentary and structure to my code that will help a reader interpret it. 
+
+```{r}
+x<-c(1,2,3,4)
+y<-c(1,2,3,4)
+
+print(x)
+```
