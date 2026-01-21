@@ -5,3 +5,5 @@ title: "Comp_Bio_2026_Website_Test"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+So adding homework links is easy! [Homework 1](HW_1_Test.html)
