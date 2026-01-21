@@ -19,5 +19,12 @@
     "title": "Homework 1 Test",
     "section": "",
     "text": "This will be pretty much a copy of my HW 1 script, except that now I can provide commentary and structure to my code that will help a reader interpret it.\n\nx&lt;-c(1,2,3,4)\ny&lt;-c(1,2,3,4)\n\nprint(x)\n\n[1] 1 2 3 4"
+  },
+  {
+    "objectID": "Homework_links.html",
+    "href": "Homework_links.html",
+    "title": "Homework Links",
+    "section": "",
+    "text": "HW 1 Link 1\nHw 2"
   }
 ]
